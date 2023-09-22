@@ -1,2 +1,1 @@
-# latihan-branch
-Latihan dan belajar membuat branch pada github
+#Saya sedang belajar membuat sebuah branch baru
